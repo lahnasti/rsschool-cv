@@ -22,7 +22,6 @@
 * Gitlab
 * Visual Studio Code
 * Terminal
-### Example code:
 ***
 ### Work experience:
 Barista (2019 - 2023) : 
