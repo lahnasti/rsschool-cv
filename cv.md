@@ -3,7 +3,7 @@
 * Discord nickname: lahnasti
 * [VK](https://vk.com/anastasilerm)
 ### About me:
-> My goal is to become a sought-after developer in a developing IT company. My strengths are crazy motivation in self-development and discipline. I really love and want to study and learn new things. 
+> My goal is to become a sought-after developer in a developing IT company. My strengths are crazy motivation in self-development and discipline. I really love and want to study and learn new things. <
 ### Soft skills:
 * Communication
 * Teamwork
